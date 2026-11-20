@@ -1,0 +1,21 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
+*.db
+*.sqlite
+
+# Python
+.venv/
+venv/
+__pycache__/
